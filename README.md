@@ -1,4 +1,5 @@
-[![ICE-awa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICE-awa&locale=cn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ICE-awa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICE-awa&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+![ICE-awa's Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ICE-awa&layout=compact&langs_count=8)
 
 I'm a undergraduate at South China Normal University(SCNU), contact me via wechat HaydenICE or QQ 2583354109
 
