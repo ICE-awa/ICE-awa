@@ -9,4 +9,4 @@ Here's my brief introduction of my repository: (latest updated of the introducti
 
 2.[notes](https://github.com/ICE-awa/notes) Using markdown to take notes related to my college courses *(continuous updating)*
 
-3.[icezone-smart-card-demo](https://github.com/ICE-awa/icezone-smart-card-demo) This project is my university Python coursework. It's an AI flashcard learning platform that uses the SM-2 algorithm for personalized learning. I built it with React, MySQL, and Java Spring Boot, and it's all packed up with Docker. This is just a demo for now, and I'll be refactoring it down the line. Check out the README.md for all the tech specifics! *（Latest updated on 07/01/2025)*
+3.[icezone-smart-card-demo](https://github.com/ICE-awa/icezone-smart-card-demo) This project is my university Python coursework. It's an AI flashcard learning platform that uses the SM-2 algorithm for personalized learning. I built it with React, MySQL, and Java Spring Boot, and it's all packed up with Docker. This is just a demo for now, and I'll be refactoring it down the line. Check out the README.md for all the tech specifics! *（Currently under developing)*
