@@ -1,7 +1,7 @@
 [![ICE-awa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICE-awa&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 ![ICE-awa's Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ICE-awa&layout=compact&langs_count=8)
 
-I'm a undergraduate at South China Normal University(SCNU), contact me via wechat ice_pwp / QQ 2583354109 / email HaydenIce@outlook.com / email ice.pwp@gmail.com / email 2583354109@qq.com
+I'm a undergraduate at South China Normal University(SCNU), contact me via wechat ice_pwp / QQ 2583354109 / email HaydenIce@outlook.com / email ice.pwp@gmail.com / email 2583354109@qq.com / phone number 17702651336
  
 Here's my brief introduction of my repository: (latest updated of the introduction was on 07/01/2025)
 
