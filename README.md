@@ -1,7 +1,45 @@
-[![ICE-awa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICE-awa&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-![ICE-awa's Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ICE-awa&layout=compact&langs_count=8)
+<div align="center">
+ <div align="center">
+  [![ICE-awa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICE-awa&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+ <div align = "center">
+  ![ICE-awa's Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ICE-awa&layout=compact&langs_count=8)
+ </div>
+</div>
 
-I'm a undergraduate at South China Normal University(SCNU), contact me via wechat ice_pwp / QQ 2583354109 / email HaydenIce@outlook.com / email ice.pwp@gmail.com / email 2583354109@qq.com / phone number +86 17702651336
+---
+
+## Tech Arsenal
+
+### Frontend
+
+<div align = "center">
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue&perline=10)](https://skillicons.dev)
+</div>
+
+### Backend
+
+<div align = "center">
+ [![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,fastapi,maven&perline=10)](https://skillicons.dev)
+</div>
+
+### DevOps & Tools
+
+<div align = "center">
+ [![My Skills](https://skillicons.dev/icons?i=anaconda,docker,git,github,latex,linux,nginx,powershell,ubuntu,debian&perline=10)](https://skillicons.dev)
+</div>
+
+### IDEs
+
+<div align = "center">
+ [![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime&perline=10)](https://skillicons.dev)
+</div>
+
+---
+
+## Brief Introduction
+
+I'm a undergraduate at South China Normal University(SCNU), contact me via wechat ice_pwp / email HaydenIce@outlook.com /
  
 Here's my brief introduction of my repository: (latest updated of the introduction was on 07/01/2025)
 
@@ -10,3 +48,11 @@ Here's my brief introduction of my repository: (latest updated of the introducti
 2.[notes](https://github.com/ICE-awa/notes) Using markdown to take notes related to my college courses *(continuous updating)*
 
 3.[icezone-smart-card-demo](https://github.com/ICE-awa/icezone-smart-card-demo) An AI flashcard learning platform that uses the SM-2 algorithm for personalized learning. I built it with React, MySQL, and Java Spring Boot, and it's all packed up with Docker. This is just a demo for now, and I'll be refactoring it down the line. Check out the README.md for all the tech specifics! *（Currently under developing)*
+
+---
+
+## 📈 Github Activity Graph
+
+[![ice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ICE-awa&theme=react-dark)](https://github.com/ICE-awa)
+
+---
