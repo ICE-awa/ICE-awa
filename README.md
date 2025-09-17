@@ -1,9 +1,9 @@
 <div align="center">
  <div align="center">
-  [![ICE-awa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICE-awa&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+  <img src = "https://github-readme-stats.vercel.app/api?username=ICE-awa&locale=cn"/>
  </div>
  <div align = "center">
-  ![ICE-awa's Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ICE-awa&layout=compact&langs_count=8)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ICE-awa&layout=compact&langs_count=8"/>
  </div>
 </div>
 
@@ -14,25 +14,25 @@
 ### Frontend
 
 <div align = "center">
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue&perline=10)](https://skillicons.dev)
+ <img src = "https://skillicons.dev/icons?i=html,css,js,ts,vue&perline=10"/>
 </div>
 
 ### Backend
 
 <div align = "center">
- [![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,fastapi,maven&perline=10)](https://skillicons.dev)
+ <img src = "https://skillicons.dev/icons?i=java,mysql,spring,fastapi,maven&perline=10"/>
 </div>
 
 ### DevOps & Tools
 
 <div align = "center">
- [![My Skills](https://skillicons.dev/icons?i=anaconda,docker,git,github,latex,linux,nginx,powershell,ubuntu,debian&perline=10)](https://skillicons.dev)
+ <img src = "https://skillicons.dev/icons?i=anaconda,docker,git,github,latex,linux,nginx,powershell,ubuntu,debian&perline=10"/>
 </div>
 
 ### IDEs
 
 <div align = "center">
- [![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime&perline=10)](https://skillicons.dev)
+ <img src = "https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime&perline=10"/>
 </div>
 
 ---
